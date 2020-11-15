@@ -6,9 +6,11 @@ caption: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur fri
 categories:
   - Μελέτη Περίπτωσης
   - Αρχέτυπα
+  - Συσκευές εισόδου
+  - Κινητός υπολογισμός
 tags:
-  - nintendo
-  - gameboy
+  - Nintendo
+  - Gameboy
 gallery:
   - image_url: /images/"ipod_1g.png"
     caption: "Η πρώτη γενιά iPod εισάγει έναν νέο τρόπο πλοήγησης σε μεγάλες λίστες (μενού) αρχείων μουσικής, τον περιστρεφόμενο τροχό."
