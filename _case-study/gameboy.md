@@ -20,6 +20,6 @@ gallery:
     caption: "Lorem ipsum dolor sit amet3."
 ---
 
-{% include extras/cs-ipod.md %}
+{% include extras/cs-gameboy.md %}
 
 {% include gallery %}
