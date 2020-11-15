@@ -4,4 +4,4 @@
 κείμενο
 Κείμενο
 
-{% include /images/gunpei-yokoi.jpg %}
+
