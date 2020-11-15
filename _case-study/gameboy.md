@@ -11,15 +11,6 @@ categories:
 tags:
   - Nintendo
   - Gameboy
-gallery:
-  - image_url: /images/nintendo_gameboy.jpg
-    caption: "Lorem ipsum dolor sit amet1."
-  - image_url: /images/nintendo_gameboy.jpg
-    caption: "Lorem ipsum dolor sit amet2."
-  - image_url: /images/nintendo_gameboy.jpg
-    caption: "Lorem ipsum dolor sit amet3."
 ---
 
 {% include extras/cs-gameboy.md %}
-
-{% include gallery %}
