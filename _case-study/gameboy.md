@@ -2,7 +2,7 @@
 author: std145288
 title: "Nintendo Gameboy"
 image_url: /images/nintendo-gameboy.jpg
-caption: "Lorem ipsum dolor sit amet,. Vestibulum vel accumsan nibh. Nunc mi est, sodales sit amet cursus sed, laoreet ac eros. Etiam vel sagittis mi." 
+caption: "Οι φορητές παιχνιδομηχανές είναι συσκευές οι οποίες απαιτούν de facto την διάδραση με τον χρήστη. Η ευχρηστία, η εργονομία, η απόδοση αποτελούν προκλήσεις για τους σχεδιαστές τέτοιων μηχανών." 
 categories:
   - Μελέτη Περίπτωσης
   - Αρχέτυπα
