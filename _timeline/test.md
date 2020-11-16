@@ -17,5 +17,5 @@ events:
   - pop
   - math-blaster
   - joystick
-  -nintendo-gameboy
+  - nintendo-gameboy
 ---
