@@ -21,7 +21,7 @@ O Gunpei Yokoi γεννήθηκε και μεγάλωσε στο Κιότο κα
 
 ##Βιβλιογραφία: 
 
-Kuittinen, P. (2006). Very Important Game People in the History of Computer and Video Games.Ανακτήθηκε από: [-] https://aaltodoc.aalto.fi/handle/123456789/12544
+Kuittinen, P. (2006). Very Important Game People in the History of Computer and Video Games.Ανακτήθηκε από: <a href="https://aaltodoc.aalto.fi/handle/123456789/12544">https://aaltodoc.aalto.fi/handle/123456789/12544</a>
 
 da Luz, A. R. (2014, June). Evolution of the Physical Interfaces in Videogames as a Support to the Narrative and the Gaming Experience. In International Conference of Design, User Experience, and Usability (pp. 688-698). Springer, Cham.
 
