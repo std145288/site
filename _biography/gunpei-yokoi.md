@@ -12,3 +12,4 @@ tags:
   - Gameboy
 ---
 
+{% include_relative bio-gunpei-yokoi.md %}
