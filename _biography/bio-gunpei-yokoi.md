@@ -19,5 +19,11 @@ O Gunpei Yokoi γεννήθηκε και μεγάλωσε στο Κιότο κα
 
 Η ζωή του Gunpei τερματίστηκε άδοξα σε έναν αυτοκινητόδρομο, τον Οκτώβριο του 1997.
 
+##Βιβλιογραφία: 
 
+Kuittinen, P. (2006). Very Important Game People in the History of Computer and Video Games.Ανακτήθηκε από:https://aaltodoc.aalto.fi/handle/123456789/12544
+
+da Luz, A. R. (2014, June). Evolution of the Physical Interfaces in Videogames as a Support to the Narrative and the Gaming Experience. In International Conference of Design, User Experience, and Usability (pp. 688-698). Springer, Cham.
+
+Alvarez, J., Haudegond, S., Havrez, C., Kolski, C., Lebrun, Y., Lepreux, S., & Libessart, A. (2014, June). From screens to devices and tangible objects: a framework applied to Serious Games characterization. In International Conference on Human-Computer Interaction (pp. 559-570). Springer, Cham.
 
