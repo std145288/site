@@ -5,5 +5,5 @@ caption: Διαφάνειες John Niaou
 image_url: /images/xerox-star-desktop.png
 slides:
   - joystick
-  - nintendo_gameboy
+  - nintendo-gameboy
 ---
